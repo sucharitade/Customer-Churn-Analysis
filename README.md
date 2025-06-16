@@ -4,10 +4,11 @@
 identify the key factors driving customer churn for a company and provide actionable insights to reduce churn. The dashboards aim to uncover patterns in service usage, contract types, and support interactions, helping stakeholders make data-informed retention decisions.
 
 ### Data Set
-- Customer Churn dataset (https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset).
+- Customer Churn dataset (https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/02%20Customer%20Churn-Dataset.xlsx).
 
 ### Tool
-- Microsoft Power bi desktop for visualisation 
+- Microsoft Power bi desktop for visualisation
+- DAX for calculated measures and columns
 
 ### Dashboard
 - Customer Churn overview dashboard

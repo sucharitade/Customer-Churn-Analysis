@@ -10,9 +10,11 @@ identify the key factors driving customer churn for a company and provide action
 - Microsoft Power bi desktop for visualisation 
 
 ### Dashboard
-- Customer overview dashboard
-<img src="https://github.com/sucharitade/blinkit-dashboard/blob/main/Screenshot%20(673).png?raw=true" width="800" alt="Dashboard Screenshot">
+- Customer Churn overview dashboard
+<img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(704).png?raw=true" width="800" alt="Dashboard Screenshot">
 - Churn Drivers and Customer Service Insights
-<img src="https://github.com/sucharitade/blinkit-dashboard/blob/main/Screenshot%20(673).png?raw=true" width="800" alt="Dashboard Screenshot">
+<br>
+<img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(705).png?raw=true" width="800" alt="Dashboard Screenshot">
 - Subscription Patterns and Churn Trends
-<img src="https://github.com/sucharitade/blinkit-dashboard/blob/main/Screenshot%20(673).png?raw=true" width="800" alt="Dashboard Screenshot">
+<br>
+<img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(706).png?raw=true" width="800" alt="Dashboard Screenshot">

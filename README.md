@@ -13,8 +13,8 @@ identify the key factors driving customer churn for a company and provide action
 - Customer Churn overview dashboard
 <img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(704).png?raw=true" width="800" alt="Dashboard Screenshot">
 - Churn Drivers and Customer Service Insights
-<br>
+<p></p>
 <img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(705).png?raw=true" width="800" alt="Dashboard Screenshot">
 - Subscription Patterns and Churn Trends
-<br>
+<p></p>
 <img src="https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Screenshot%20(706).png?raw=true" width="800" alt="Dashboard Screenshot">

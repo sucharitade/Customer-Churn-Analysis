@@ -10,6 +10,10 @@ identify the key factors driving customer churn for a company and provide action
 - Microsoft Power bi desktop for visualisation
 - DAX for calculated measures and columns
 
+## 📂 Power BI File
+The Power BI `.pbix` file used to build this project is available in the repository [here](./Customer_Churn_Dashboard.pbix).
+
+
 ### Dashboard
 - Customer Churn overview dashboard
 <p></p>
